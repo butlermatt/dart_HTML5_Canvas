@@ -1,0 +1,8 @@
+name: dart_html5_canvas
+version: 0.0.1
+author: Matthew Butler & Steve Fulton and Jeff Fulton (O'Reilly)
+description: Dart port of examples from HTML5 Canvas, 2nd Edition
+homepage: https://github.com/butlermatt/dart_HTML5_Canvas
+documentation: https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/README.md
+dependencies:
+  browser: any
