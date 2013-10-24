@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Ch1Ex3: Your First Canvas Application</title>
+    <title>CH1Ex4: Guesss The Letter Game</title>
     <link rel="stylesheet" src="base.css">
     <!-- We don't include the modernizer because Dart only supports "The modern web" -->
   </head>
@@ -13,6 +13,9 @@
     <canvas id="canvasOne" width="500" height="300">
       Your browser does not support HTML 5 Canvas.
     </canvas>
+    <form>
+      <input type="button" id="createImageData" value="Export Canvas Image">
+    </form>
   </div>
   
     <!-- 
@@ -20,7 +23,7 @@
     keep our scripts just prior to the end of the body. This helps when
     compiled to javascript for consistancy.
      -->
-    <script type="application/dart" src="ch1ex3.dart"></script>
+    <script type="application/dart" src="ch1ex4.dart"></script>
     <!-- for this next line to work, your pubspec.yaml file must have a dependency on 'browser' -->
     <script src="packages/browser/dart.js"></script>
   </body>

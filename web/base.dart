@@ -10,7 +10,7 @@ import 'dart:html';
 // we don't need to keep our methods/properties in a local scope.
 class CanvasApp {
   CanvasElement theCanvas;
-  CanvasRenderingContext context;
+  CanvasRenderingContext2D context;
   
   CanvasApp() {
     // Initialize the canvas and context

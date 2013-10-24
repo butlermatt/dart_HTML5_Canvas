@@ -1,4 +1,4 @@
-library ch1ex3;
+library ch1.ex3;
 
 import 'dart:html';
 
