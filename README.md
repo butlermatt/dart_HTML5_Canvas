@@ -45,4 +45,4 @@ The Examples
     * Example 5 - Hello World Animated \[[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex5.html)\]
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex5.dart)\]
     * Example 6 - Canvas Sub DOM Example \[[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex6.html)\]
-\[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex6.html)\]
+\[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex6.dart)\]
