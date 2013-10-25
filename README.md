@@ -46,3 +46,8 @@ The Examples
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex5.dart)\]
     * Example 6 - Canvas Sub DOM Example \[[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex6.html)\]
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex6.dart)\]
+* [Chapter 2](https://github.com/butlermatt/dart_HTML5_Canvas/tree/master/web/ch2)
+    * Example 1 - Basic Rectangles \[[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex1.html)\]
+\[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex1.dart)\]
+    * Example 2 - Basic Paths \[[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex2.html)\]
+\[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex2.dart)\]

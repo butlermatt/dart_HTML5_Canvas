@@ -1,4 +1,4 @@
-library base;
+library ch2.ex2;
 
 import 'dart:html';
 
@@ -20,6 +20,15 @@ class CanvasApp {
   
   void drawScreen() {
     // Content goes here.
+    
+    context..strokeStyle = 'black' // Stroke black line (#000000)
+        ..lineWidth = 10 // Stroke width is 10px
+        ..lineCap = 'square' // Line ends are squared off
+        ..beginPath() // Start a path
+        ..moveTo(20, 0) // move pen to 20, 0
+        ..lineTo(100, 0) // draw a line from (20, 0) to (100, 0)
+        ..stroke() // paint the line
+        ..closePath(); // terminate the path.
     
   }
 }
