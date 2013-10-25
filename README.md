@@ -38,11 +38,11 @@ following the samples. They have also generously made this book available for
 The Examples
 ------------
 * Chapter 1
-** Example 3 - Your First Canvas Application [.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex3.html)
+    * Example 3 - Your First Canvas Application [.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex3.html)
 [.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex3.dart)
-** Example 4 - Guess The Letter Game [.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex4.html)
+    * Example 4 - Guess The Letter Game [.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex4.html)
 [.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex4.dart)
-** Example 5 - Hello World Animated [.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex5.html)
+    * Example 5 - Hello World Animated [.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex5.html)
 [.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex5.dart)
-** Example 6 - Canvas Sub DOM Example [.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex6.html)
+    * Example 6 - Canvas Sub DOM Example [.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex6.html)
 [.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex6.html)
