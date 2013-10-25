@@ -23,7 +23,7 @@ class CanvasApp {
     
     context..strokeStyle = 'black' // Stroke black line (#000000)
         ..lineWidth = 10 // Stroke width is 10px
-        ..lineCap = 'square' // Line ends are squared off
+        ..lineCap = 'square' // Line ends are squared (vs butt and round)
         ..beginPath() // Start a path
         ..moveTo(20, 0) // move pen to 20, 0
         ..lineTo(100, 0) // draw a line from (20, 0) to (100, 0)
