@@ -37,7 +37,7 @@ following the samples. They have also generously made this book available for
 
 The Examples
 ------------
-* Chapter 1
+* [Chapter 1](https://github.com/butlermatt/dart_HTML5_Canvas/tree/master/web/ch1)
     * Example 3 - Your First Canvas Application [.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex3.html)
 [.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex3.dart)
     * Example 4 - Guess The Letter Game [.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch1/ch1ex4.html)
