@@ -73,3 +73,7 @@ The Examples
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex12.dart)\]
     * Example 13 - Combined Scale and Rotation #2\[[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex13.html)\]
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex13.dart)\]
+    * Example 14 - Simple Linear Gradients \[[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex14.html)\]
+\[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex14.dart)\]
+    * Example 15 - Simple Linear Gradients #2\[[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex15.html)\]
+\[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex15.dart)\]
