@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Ch2Ex5 Clipping Region</title>
+    <link rel="stylesheet" src="base.css">
+    <!-- We don't include the modernizer because Dart only supports "The modern web" -->
+  </head>
+ 
+  <body>
+  <div id="container">
+    <canvas id="canvas" width="500" height="500">
+      Your browser does not support HTML 5 Canvas.
+    </canvas>
+  </div>
+  
+    <!-- 
+    Since dart VM usually runs after the page is initially rendered, we
+    keep our scripts just prior to the end of the body. This helps when
+    compiled to javascript for consistancy.
+     -->
+    <script type="application/dart" src="ch2ex5.dart"></script>
+    <!-- for this next line to work, your pubspec.yaml file must have a dependency on 'browser' -->
+    <script src="packages/browser/dart.js"></script>
+  </body>
+</html>
