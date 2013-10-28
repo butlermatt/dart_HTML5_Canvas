@@ -71,3 +71,5 @@ The Examples
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex11.dart)\]
     * Example 12 - Combined Scale and Rotation \[[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex12.html)\]
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex12.dart)\]
+    * Example 13 - Combined Scale and Rotation #2\[[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex13.html)\]
+\[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex13.dart)\]
