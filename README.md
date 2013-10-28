@@ -63,3 +63,5 @@ The Examples
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex7.dart)\]
     * Example 8 - Rotation Transformation #2 \[[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex8.html)\]
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex8.dart)\]
+    * Example 9 - Rotation Transformation #3 \[[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex9.html)\]
+\[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex9.dart)\]
