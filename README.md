@@ -81,3 +81,5 @@ The Examples
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex16.dart)\]
     * Example 17 - Simple Linear Gradients #4 - Complex Shape \ [[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex17.html)\]
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex17.dart)\]
+    * Example 18 - Simple Linear Gradients #5 - Vertical Complex Shape \ [[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex18.html)\]
+\[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex18.dart)\]
