@@ -1,4 +1,4 @@
-library ch2.ex16;
+library ch2.ex17;
 
 import 'dart:html';
 
@@ -29,11 +29,18 @@ class CanvasApp {
         ..addColorStop(0.5, 'rgb(0, 255, 0)')
         ..addColorStop(1, 'rgb(255, 0, 0)');
     
-    // Use the gradient for the strokeStyle
-    context..strokeStyle = gr
-        ..strokeRect(0, 0, 100, 100)
-        ..strokeRect(0, 100, 50, 100)
-        ..strokeRect(0, 200, 200, 100);
+    // Use the gradient for the fillStyle
+    context..fillStyle = gr
+        ..beginPath()
+        ..moveTo(0, 0)
+        ..lineTo(50, 0)
+        ..lineTo(100, 50)
+        ..lineTo(50, 100)
+        ..lineTo(0, 100)
+        ..lineTo(0, 0)
+        ..stroke() // Stroke to add the border
+        ..fill() // Fill the path with our gradient
+        ..closePath(); // End path.
         
   }
 }
