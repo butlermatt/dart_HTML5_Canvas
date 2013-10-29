@@ -85,3 +85,6 @@ The Examples
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex18.dart)\]
     * Example 19 - Simple Linear Gradients #6 - Vertical Stroke Shape \ [[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex19.html)\]
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex19.dart)\]
+    * Example 20 - Simple Diagonal Gradient \ [[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex20.html)\]
+\[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex20.dart)\]
+
