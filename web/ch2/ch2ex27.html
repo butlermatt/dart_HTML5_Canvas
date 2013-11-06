@@ -3,20 +3,15 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Chapter 1 Example 6 Canvas Sub Dom Example</title>
+    <title>Ch2Ex27  Shadow Examples</title>
     <link rel="stylesheet" href="base.css">
     <!-- We don't include the modernizer because Dart only supports "The modern web" -->
   </head>
  
   <body>
   <div id="container">
-    <canvas id="canvasOne" width="500" height="300">
-      <div>A yellow background with an image and text on top
-        <ol>
-          <li>The text says "Hello World"</li>
-          <li>The image is of planet earth</li>
-        </ol>
-      </div>
+    <canvas id="canvas" width="500" height="500">
+      Your browser does not support HTML 5 Canvas.
     </canvas>
   </div>
   
@@ -25,7 +20,7 @@
     keep our scripts just prior to the end of the body. This helps when
     compiled to javascript for consistancy.
      -->
-    <script type="application/dart" src="ch1ex6.dart"></script>
+    <script type="application/dart" src="ch2ex27.dart"></script>
     <!-- for this next line to work, your pubspec.yaml file must have a dependency on 'browser' -->
     <script src="packages/browser/dart.js"></script>
   </body>
