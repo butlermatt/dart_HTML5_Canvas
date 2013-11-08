@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>CH3EX1: Text Arranger Version 1.0</title>
+    <link rel="stylesheet" href="base.css">
+    <!-- We don't include the modernizer because Dart only supports "The modern web" -->
+  </head>
+ 
+  <body>
+  <div id="container">
+    <canvas id="canvas" width="500" height="300">
+      Your browser does not support HTML 5 Canvas.
+    </canvas>
+    
+    <form>
+      Text: <input id="textBox" placeholder="your text" />
+      <br>
+      
+      Fill or Stroke:
+      <select id="fillOrStroke">
+        <option value="fill">fill</option>
+        <option value="stroke">stroke</option>
+        <option value="both">both</option>
+      </select>
+      <br>
+    </form>
+    
+  </div>
+  
+    <!-- 
+    Since dart VM usually runs after the page is initially rendered, we
+    keep our scripts just prior to the end of the body. This helps when
+    compiled to javascript for consistancy.
+     -->
+    <script type="application/dart" src="ch3ex1.dart"></script>
+    <!-- for this next line to work, your pubspec.yaml file must have a dependency on 'browser' -->
+    <script src="packages/browser/dart.js"></script>
+  </body>
+</html>

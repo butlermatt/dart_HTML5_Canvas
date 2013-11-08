@@ -103,3 +103,6 @@ The Examples
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex27.dart)\]
     * Example 28 - Animating a Path \[[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex28.html)\]
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch2/ch2ex28.dart)\]
+* [Chapter 3](https://github.com/butlermatt/dart_HTML5_Canvas/tree/master/web/ch3)
+    * Example 1 - Text Arranger Version 1.0 \[[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch3/ch3ex1.html)\]
+\[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch3/ch3ex1.dart)\]
