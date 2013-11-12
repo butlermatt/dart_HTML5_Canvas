@@ -7,4 +7,4 @@ documentation: https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/READM
 environment:
   sdk: '>=0.8.10+6 <2.0.0'
 dependencies:
-  browser: any
+  browser: '>=0.9.0 <0.10.0'
