@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>CH3EX2: Text Arranger Version 2.0</title>
+    <link rel="stylesheet" href="base.css">
+    <!-- We don't include the modernizer because Dart only supports "The modern web" -->
+  </head>
+ 
+  <body>
+  <div id="container">
+    <canvas id="canvas" width="500" height="300">
+      Your browser does not support HTML 5 Canvas.
+    </canvas>
+    
+    <form>
+      Text: <input id="textBox" placeholder="your text" />
+      <br> 
+  
+      Fill Or Stroke : 
+      <select id="fillOrStroke">
+        <option value="fill">fill</option>
+        <option value="stroke">stroke</option>
+        <option value="both">both</option>
+      </select>
+      <br>
+      Text Font: <select id="textFont">
+        <option value="serif">serif</option>
+        <option value="sans-serif">sans-serif</option>
+        <option value="cursive">cursive</option>
+        <option value="fantasy">fantasy</option>
+        <option value="monospace">monospace</option>
+      </select>
+      <br>  
+      Text Size: <input type="range" id="textSize"
+        min="0"
+        max="200"
+        step="1"
+        value="50"/> 
+      <br>      
+      Text Color: <input type="color" 
+          class="color" 
+          id="textFillColor" 
+          value="FF0000"/> 
+      <br>
+      Font Weight:
+      <select id="fontWeight">
+        <option value="normal">normal</option>
+        <option value="bold">bold</option>
+        <option value="bolder">bolder</option>
+        <option value="lighter">lighter</option>
+      </select>
+      <br>
+      Font Style:
+      <select id="fontStyle">
+        <option value="normal">normal</option>
+        <option value="italic">italic</option>
+        <option value="oblique">oblique</option>
+      </select>
+      <br>
+      Text Baseline <select id="textBaseline">
+       <option value="middle">middle</option>
+       <option value="top">top</option>
+       <option value="hanging">hanging</option>
+       <option value="alphabetic">alphabetic</option>
+       <option value="ideographic">ideographic</option>
+       <option value="bottom">bottom</option>
+     </select>
+     <br>
+     Text Align <select id="textAlign">
+       <option value="center">center</option>
+       <option value="start">start</option>
+       <option value="end">end</option>
+       <option value="left">left</option>
+       <option value="right">right</option>
+ 
+     </select>
+    </form>
+    
+  </div>
+  
+    <!-- 
+    Since dart VM usually runs after the page is initially rendered, we
+    keep our scripts just prior to the end of the body. This helps when
+    compiled to javascript for consistancy.
+     -->
+    <script type="application/dart" src="ch3ex2.dart"></script>
+    <!-- for this next line to work, your pubspec.yaml file must have a dependency on 'browser' -->
+    <script src="packages/browser/dart.js"></script>
+  </body>
+</html>
