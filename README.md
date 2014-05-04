@@ -108,3 +108,5 @@ The Examples
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch3/ch3ex1.dart)\]
     * Example 2 - Text Arranger Version 2.0 \[[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch3/ch3ex2.html)\]
 \[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch3/ch3ex2.dart)\]
+    * Example 3 - Text Arranger Version 3.0 \[[.html](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch3/ch3ex3.html)\]
+\[[.dart](https://github.com/butlermatt/dart_HTML5_Canvas/blob/master/web/ch3/ch3ex3.dart)\]
